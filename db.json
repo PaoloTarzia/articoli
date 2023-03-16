@@ -1,0 +1,31 @@
+{
+  "articoli": [
+    {
+      "id": 1,
+      "title": "Uccidi i tuoi Desideri",
+      "url": "https://youtu.be/ig7qaiW4qW4?list=PLd0mOplq2IxtOkJ-yzmN9LCgXPsuEBakq",
+      "like": 183
+    },
+    {
+      "id": 2,
+      "title": "mabostiff",
+      "url": "https://youtu.be/CCx8WDJwLTw",
+      "year": 2023,
+      "company": "pokemon"
+    },
+    {
+      "id": 3,
+      "title": "quaxly",
+      "trainer": "Juanpabla",
+      "year": 2022,
+      "company": "pokemon"
+    },
+    {
+      "id": 4,
+      "title": "kingabit",
+      "trainer": "anita",
+      "year": 2022,
+      "company": "pokemon"
+    }
+  ]
+}
